@@ -4,5 +4,5 @@
 5.0 / 2.5
 
 function add(a, b) {
-  console.log(a + b);
+  return a + b
 }
